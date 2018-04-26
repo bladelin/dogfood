@@ -1,3 +1,4 @@
+<?php
 /**
  * 忘了何時寫的東西，主要是記算fb like數量 from fb graphic
  * 但single thread要讀大量資料出來就造成memory not enough的問題

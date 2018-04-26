@@ -1,0 +1,25 @@
+{
+    "name": "jun/dogfood",
+    "authors": [
+        {
+            "name": "Jun.lin",
+            "email": "xuanjunlin@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require-dev": {
+        "php": "^7.0",
+        "phpunit/phpunit": "^6.4",
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    }
+}
